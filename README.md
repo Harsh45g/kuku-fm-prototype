@@ -39,9 +39,3 @@ To build an immersive feature that:
 - ❤️ Feedback interaction (like/dislike buttons)
 
 ---
-
-## 🌐 Live Demo
-
-🔗 **Live App**: []([https://kuku-fm-prototype.vercel.app/])))  
----
-
