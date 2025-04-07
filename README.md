@@ -42,8 +42,6 @@ To build an immersive feature that:
 
 ## 🌐 Live Demo
 
-🔗 **Live App**: [https://vercel.com/prathams-projects-2dca6fac/kuku-f-mprototype](https://vercel.com/prathams-projects-2dca6fac/kuku-f-mprototype))  
-💻 **GitHub Repository**: [https://github.com/prathampvv/KukuFMprototype](https://github.com/prathampvv/KukuFMprototype)
-
+🔗 **Live App**: []([https://kuku-fm-prototype.vercel.app/])))  
 ---
 
